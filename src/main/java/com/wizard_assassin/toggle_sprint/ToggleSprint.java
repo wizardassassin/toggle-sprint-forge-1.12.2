@@ -1,11 +1,11 @@
-package com.yourname.modid;
+package com.wizard_assassin.toggle_sprint;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid = Example.MOD_ID)
-public class Example {
-    public static final String MOD_ID = "example";
+@Mod(modid = ToggleSprint.MOD_ID)
+public class ToggleSprint {
+    public static final String MOD_ID = "toggle-sprint";
 
     @Mod.EventHandler
     public void onPreInit(FMLPreInitializationEvent event) {
