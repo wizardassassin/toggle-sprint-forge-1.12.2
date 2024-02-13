@@ -3,6 +3,6 @@
     "package": "com.wizard_assassin.toggle_sprint.mixin",
     "refmap": "refmap.toggle-sprint.json",
     "mixins": [],
-    "client": ["MixinMinecraft"],
+    "client": ["KeyBindingMixin"],
     "server": []
 }
